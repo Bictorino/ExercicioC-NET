@@ -1,0 +1,16 @@
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\obj\Debug\net5.0\Exercicio.NET.csproj.AssemblyReference.cache
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\obj\Debug\net5.0\Exercicio.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\obj\Debug\net5.0\Exercicio.NET.AssemblyInfoInputs.cache
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\obj\Debug\net5.0\Exercicio.NET.AssemblyInfo.cs
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\obj\Debug\net5.0\Exercicio.NET.csproj.CoreCompileInputs.cache
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\bin\Debug\net5.0\Exercicio.NET.exe
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\bin\Debug\net5.0\Exercicio.NET.deps.json
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\bin\Debug\net5.0\Exercicio.NET.runtimeconfig.json
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\bin\Debug\net5.0\Exercicio.NET.runtimeconfig.dev.json
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\bin\Debug\net5.0\Exercicio.NET.dll
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\bin\Debug\net5.0\ref\Exercicio.NET.dll
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\bin\Debug\net5.0\Exercicio.NET.pdb
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\obj\Debug\net5.0\Exercicio.NET.dll
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\obj\Debug\net5.0\ref\Exercicio.NET.dll
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\obj\Debug\net5.0\Exercicio.NET.pdb
+C:\Users\vtrga\OneDrive\Documentos\Exercicio\Exercicio.NET\obj\Debug\net5.0\Exercicio.NET.genruntimeconfig.cache
